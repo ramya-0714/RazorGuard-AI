@@ -1,0 +1,6 @@
+metric,value
+Precision,1.0
+Recall,0.08645833333333333
+F1 Score,0.15915627996164908
+False Positive Rate,0.0
+Fraud Detection Rate,0.08645833333333333
